@@ -14,4 +14,4 @@ A list of the shaders of mine, hosted on shadertoy.com
 <br>
 
 ## Voxel Rendering Shader:
-![Image](https://raw.githubusercontent.com/l0ftyWhizZ/Shadertoy-Shaders/master/Screenshots/Screen%20Shot%202017-03-22%20at%2011.27.05%20AM.png?raw=true)
+![Image](https://raw.githubusercontent.com/l0ftyWhizZ/Shadertoy-Shaders/master/Screenshots/Screen%20Shot%202017-03-24%20at%2011.27.05%20AM.png?raw=true)
